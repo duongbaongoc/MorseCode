@@ -1,0 +1,5 @@
+1/ header for each file
+2/ Node.h :: getters have const??
+5/ BST constructor (default) :: only works if T == char for now
+
+
